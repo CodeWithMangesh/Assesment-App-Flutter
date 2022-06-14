@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159082785777",
+    "project_id": "happy-dfa23",
+    "storage_bucket": "happy-dfa23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159082785777:android:df916c6354b47c0b61b250",
+        "android_client_info": {
+          "package_name": "com.example.happy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159082785777-ur8dajqocmdtdrflv0ivfj7c6f9ngh7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.happy",
+            "certificate_hash": "fdb855967d8545fccf460f2c33ab3c6a8d092054"
+          }
+        },
+        {
+          "client_id": "159082785777-tnlnq954qgmtm784e937m8ofrsmdlehe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wzie3hdYwEN8YmFGpWnKRQqg33WW5ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159082785777-tnlnq954qgmtm784e937m8ofrsmdlehe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
